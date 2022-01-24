@@ -1,4 +1,4 @@
-# Webpage content category predictor - ML engine
+# Webpage category predictor - ML engine
 Used technologies - Numpy, pandas and Sklearn for training the model, web scrapping and Flask
 Used database: taken from https://relatedwords.org/
 
